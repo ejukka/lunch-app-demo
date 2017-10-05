@@ -1,4 +1,4 @@
 dotnet restore
 dotnet build
-cd Lunch-app-demo
+cd LunchApp.Web
 dotnet run 
