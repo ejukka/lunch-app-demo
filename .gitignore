@@ -1,0 +1,11 @@
+*.suo
+*.user
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+**/packages/*
+.idea/*
+.vscode
