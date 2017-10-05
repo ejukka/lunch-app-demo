@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80c7327a-0b4d-4edd-ac22-968bee7f2ace" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lunch-app-demo/Lunch-app-demo.csproj" afterPath="$PROJECT_DIR$/Lunch-app-demo/Lunch-app-demo.csproj" />
-    </list>
+    <list default="true" id="80c7327a-0b4d-4edd-ac22-968bee7f2ace" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,151 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lunch-app-demo.csproj" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Lunch-app-demo.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/DataController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1496780429000" expanded="false" signature="6:165" ph="..." />
-                <marker date="1496780429000" expanded="true" signature="317:860" ph="{...}" />
-                <marker date="1496780429000" expanded="true" signature="396:858" ph="{...}" />
-                <marker date="1496780429000" expanded="true" signature="510:541" ph="{...}" />
-                <marker date="1496780429000" expanded="true" signature="583:852" ph="{...}" />
-                <marker date="1496780429000" expanded="true" signature="716:821" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Startup.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="site.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="site.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Error.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1496773925000" expanded="true" signature="0:37" ph="@..." />
-                <marker date="1496773925000" expanded="true" signature="180:315" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="316:706" ph="&lt;p.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1496773925000" expanded="true" signature="0:41" ph="@..." />
-                <marker date="1496773925000" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3050:5571" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="5138:5564" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="5199:5553" ph="&lt;ul.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -170,12 +24,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/28769FF5-DC6A-41A2-95DA-B5C2535E83F8/16/978097b7/Controller.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/DataController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lunch-app-demo/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -213,6 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -223,20 +72,7 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Lunch-app-demo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Lunch-app-demo" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Lunch-app-demo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Lunch-app-demo" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Lunch-app-demo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Lunch-app-demo" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LunchApp.Web (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -244,7 +80,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -349,12 +184,14 @@
       <workItem from="1506341515169" duration="126000" />
       <workItem from="1506410173446" duration="518000" />
       <workItem from="1507228045595" duration="1022000" />
-      <workItem from="1507229216201" duration="310000" />
+      <workItem from="1507229216201" duration="467000" />
+      <workItem from="1507230135956" duration="59000" />
+      <workItem from="1507230212983" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4752000" />
+    <option name="totallyTimeSpent" value="4980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,8 +214,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2630458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2683706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -389,6 +225,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -405,180 +242,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/DataController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496780429000" expanded="false" signature="6:165" ph="..." />
-            <marker date="1496780429000" expanded="true" signature="317:860" ph="{...}" />
-            <marker date="1496780429000" expanded="true" signature="396:858" ph="{...}" />
-            <marker date="1496780429000" expanded="true" signature="510:541" ph="{...}" />
-            <marker date="1496780429000" expanded="true" signature="583:852" ph="{...}" />
-            <marker date="1496780429000" expanded="true" signature="716:821" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:37" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="180:315" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="316:706" ph="&lt;p.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3050:5571" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5138:5564" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5199:5553" ph="&lt;ul.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Lunch-app-demo.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:37" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="180:315" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="316:706" ph="&lt;p.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/DataController.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Lunch-app-demo.csproj" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml" />
     <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/28769FF5-DC6A-41A2-95DA-B5C2535E83F8/16/978097b7/Controller.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -586,113 +265,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3050:5571" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5138:5564" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5199:5553" ph="&lt;ul.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:37" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="180:315" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="316:706" ph="&lt;p.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml" />
     <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/28769FF5-DC6A-41A2-95DA-B5C2535E83F8/16/978097b7/Controller.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -700,97 +281,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3050:5571" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5138:5564" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5199:5553" ph="&lt;ul.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:37" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="180:315" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="316:706" ph="&lt;p.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml" />
     <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/28769FF5-DC6A-41A2-95DA-B5C2535E83F8/16/978097b7/Controller.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -798,61 +295,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3050:5571" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5138:5564" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5199:5553" ph="&lt;ul.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/bundleconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/bundleconfig.json" />
     <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/28769FF5-DC6A-41A2-95DA-B5C2535E83F8/16/978097b7/Controller.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -860,142 +305,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:37" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="180:315" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="316:706" ph="&lt;p.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3050:5571" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5138:5564" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5199:5553" ph="&lt;ul.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/DataController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496780429000" expanded="false" signature="6:165" ph="..." />
-            <marker date="1496780429000" expanded="true" signature="317:860" ph="{...}" />
-            <marker date="1496780429000" expanded="true" signature="396:858" ph="{...}" />
-            <marker date="1496780429000" expanded="true" signature="510:541" ph="{...}" />
-            <marker date="1496780429000" expanded="true" signature="583:852" ph="{...}" />
-            <marker date="1496780429000" expanded="true" signature="716:821" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Lunch-app-demo.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Shared/Error.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.min.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/bower.json" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/Index.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/app.ts" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/wwwroot/js/site.js" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Startup.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/DataController.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Controllers/HomeController.cs" />
+    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Lunch-app-demo.csproj" />
   </component>
 </project>
