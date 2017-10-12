@@ -17,6 +17,7 @@
         <e p="Controllers" t="Include">
           <e p="DataController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
+          <e p="RuproController.cs" t="Include" />
         </e>
         <e p="DbModels" t="Include">
           <e p="ModelContext.cs" t="Include" />
@@ -24,6 +25,9 @@
           <e p="User.cs" t="Include" />
         </e>
         <e p="LunchApp.Web.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Restaurant.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.0" t="Include">
@@ -42,6 +46,9 @@
             <e p="Contact.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
             <e p="test.cshtml" t="Include" />
+          </e>
+          <e p="Rupro" t="Include">
+            <e p="Index.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">
             <e p="_Layout.cshtml" t="Include" />
