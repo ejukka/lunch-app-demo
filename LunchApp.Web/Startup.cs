@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Lunch_app_demo.Models;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -23,10 +24,10 @@ namespace Lunch_app_demo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<DbModels.ModelContext>(opt => opt.UseInMemoryDatabase());
-
             // Add framework services.
             services.AddMvc();
+            
+            //services.AddDbContext<RestaurantContext>(options => options.UseSqlite("Data Source=Restaurants.db"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

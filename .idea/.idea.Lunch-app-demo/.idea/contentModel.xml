@@ -20,6 +20,7 @@
         <e p="LunchApp.Web.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">
           <e p="Restaurant.cs" t="Include" />
+          <e p="RestaurantContext.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
