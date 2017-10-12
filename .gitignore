@@ -1,3 +1,4 @@
+.idea/
 *.suo
 *.user
 [Dd]ebug/
@@ -7,6 +8,5 @@ build/
 [Bb]in/
 [Oo]bj/
 **/packages/*
-.idea/*
 .idea
 .vscode
