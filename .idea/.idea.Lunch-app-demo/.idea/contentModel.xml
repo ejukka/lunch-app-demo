@@ -15,14 +15,7 @@
         <e p="bower.json" t="Include" />
         <e p="bundleconfig.json" t="Include" />
         <e p="Controllers" t="Include">
-          <e p="DataController.cs" t="Include" />
-          <e p="HomeController.cs" t="Include" />
           <e p="RuproController.cs" t="Include" />
-        </e>
-        <e p="DbModels" t="Include">
-          <e p="ModelContext.cs" t="Include" />
-          <e p="Post.cs" t="Include" />
-          <e p="User.cs" t="Include" />
         </e>
         <e p="LunchApp.Web.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">
@@ -41,12 +34,6 @@
         <e p="Views" t="Include">
           <e p="_ViewImports.cshtml" t="Include" />
           <e p="_ViewStart.cshtml" t="Include" />
-          <e p="Home" t="Include">
-            <e p="About.cshtml" t="Include" />
-            <e p="Contact.cshtml" t="Include" />
-            <e p="Index.cshtml" t="Include" />
-            <e p="test.cshtml" t="Include" />
-          </e>
           <e p="Rupro" t="Include">
             <e p="Index.cshtml" t="Include" />
           </e>

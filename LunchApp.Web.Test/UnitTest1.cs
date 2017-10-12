@@ -8,17 +8,17 @@ namespace LunchApp.Web.Test
     public class UnitTest1
     {
         
-        private readonly HomeController controller;
+        private readonly RuproController controller;
         
         public UnitTest1()
         {
-            controller = new HomeController();
+            controller = new RuproController();
         }
         
         [Test]
         public void Test1()
         {
-            IActionResult about = controller.About();
+            IActionResult about = controller.Index();
             Assert.AreEqual(about.GetType().FullName, "Microsoft.AspNetCore.Mvc.ViewResult");
         }
     }

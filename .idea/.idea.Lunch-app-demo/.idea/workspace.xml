@@ -11,24 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/HomeController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding>
-                <marker date="1507833573000" expanded="true" signature="69:703" ph="{...}" />
-                <marker date="1507833573000" expanded="true" signature="116:701" ph="{...}" />
-                <marker date="1507833573000" expanded="true" signature="159:206" ph="{...}" />
-                <marker date="1507833573000" expanded="true" signature="244:364" ph="{...}" />
-                <marker date="1507833573000" expanded="true" signature="404:508" ph="{...}" />
-                <marker date="1507833573000" expanded="true" signature="539:610" ph="{...}" />
-                <marker date="1507833573000" expanded="true" signature="648:695" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Restaurant.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LunchApp.Web/Models/Restaurant.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,129 +24,107 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModelContext.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LunchApp.Web/DbModels/ModelContext.cs">
+      <file leaf-file-name="UnitTest1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LunchApp.Web.Test/UnitTest1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+              <folding>
+                <marker date="1507836653000" expanded="true" signature="6:88" ph="..." />
+                <marker date="1507836653000" expanded="true" signature="117:564" ph="{...}" />
+                <marker date="1507836653000" expanded="true" signature="164:562" ph="{...}" />
+                <marker date="1507836653000" expanded="true" signature="268:336" ph="{...}" />
+                <marker date="1507836653000" expanded="true" signature="388:556" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RuproController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/RuproController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
-                <marker date="1507835617000" expanded="true" signature="6:50" ph="..." />
-                <marker date="1507835617000" expanded="true" signature="85:342" ph="{...}" />
-                <marker date="1507835617000" expanded="true" signature="129:340" ph="{...}" />
-                <marker date="1507835617000" expanded="true" signature="219:239" ph="{...}" />
+                <marker date="1507836787000" expanded="true" signature="6:64" ph="..." />
+                <marker date="1507836787000" expanded="true" signature="102:632" ph="{...}" />
+                <marker date="1507836787000" expanded="true" signature="150:630" ph="{...}" />
+                <marker date="1507836787000" expanded="true" signature="219:266" ph="{...}" />
+                <marker date="1507836787000" expanded="true" signature="334:413" ph="{...}" />
+                <marker date="1507836787000" expanded="true" signature="515:624" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Post.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LunchApp.Web/DbModels/Post.cs">
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Shared/_Layout.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="28" column="68" lean-forward="true" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
               <folding>
-                <marker date="1496779302000" expanded="true" signature="47:229" ph="{...}" />
-                <marker date="1496779302000" expanded="true" signature="68:227" ph="{...}" />
+                <marker date="1507836498000" expanded="true" signature="16:3131" ph="&lt;html.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="23:847" ph="&lt;head.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="192:380" ph="&lt;environment.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="385:839" ph="&lt;environment.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="848:3123" ph="&lt;body.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="859:1728" ph="&lt;nav.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="920:1717" ph="&lt;div.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="956:1471" ph="&lt;div.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="1000:1344" ph="&lt;button.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="1484:1702" ph="&lt;div.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="1539:1683" ph="&lt;ul.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="1733:1895" ph="&lt;div.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="1815:1884" ph="&lt;footer.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="1901:2153" ph="&lt;environment.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="2158:3067" ph="&lt;environment.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="2207:2555" ph="&lt;script.../&gt;" />
+                <marker date="1507836498000" expanded="true" signature="2564:2973" ph="&lt;script.../&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LunchApp.Web/DbModels/User.cs">
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
-                <marker date="1496779341000" expanded="true" signature="6:47" ph="..." />
-                <marker date="1496779341000" expanded="true" signature="83:279" ph="{...}" />
-                <marker date="1496779341000" expanded="true" signature="104:277" ph="{...}" />
+                <marker date="1507836665000" expanded="true" signature="6:197" ph="..." />
+                <marker date="1507836665000" expanded="true" signature="223:2068" ph="{...}" />
+                <marker date="1507836665000" expanded="true" signature="250:2066" ph="{...}" />
+                <marker date="1507836665000" expanded="true" signature="304:692" ph="{...}" />
+                <marker date="1507836665000" expanded="true" signature="919:1104" ph="{...}" />
+                <marker date="1507836665000" expanded="true" signature="942:1063" ph="/* services.AddDbContext&lt;DbModels.ModelContext&gt;(opt =&gt; opt.UseInMemoryDatabase()); ... */" />
+                <marker date="1507836665000" expanded="true" signature="1322:2059" ph="{...}" />
+                <marker date="1507836665000" expanded="true" signature="1450:1553" ph="/* var context = app.ApplicationServices.GetService&lt;DbModels.ModelContext&gt;(); ... */" />
+                <marker date="1507836665000" expanded="true" signature="1591:1706" ph="{...}" />
+                <marker date="1507836665000" expanded="true" signature="1723:1807" ph="{...}" />
+                <marker date="1507836665000" expanded="true" signature="1876:2047" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Home/Index.cshtml">
+        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Rupro/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
               <folding>
-                <marker date="1496773925000" expanded="true" signature="0:41" ph="@..." />
-                <marker date="1496773925000" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3050:5571" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="5138:5564" ph="&lt;div.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="5199:5553" ph="&lt;ul.../&gt;" />
+                <marker date="1507834447000" expanded="true" signature="0:37" ph="@..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contact.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Home/Contact.cshtml">
+      <file leaf-file-name="LunchApp.Web.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LunchApp.Web/LunchApp.Web.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1496773925000" expanded="true" signature="0:39" ph="@..." />
-                <marker date="1496773925000" expanded="true" signature="100:232" ph="&lt;address.../&gt;" />
-                <marker date="1496773925000" expanded="true" signature="234:448" ph="&lt;address.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="About.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Home/About.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <marker date="1496773925000" expanded="true" signature="0:37" ph="@..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataController.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/DataController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-              <folding>
-                <marker date="1507834948000" expanded="true" signature="6:117" ph="..." />
-                <marker date="1507834948000" expanded="true" signature="269:812" ph="{...}" />
-                <marker date="1507834948000" expanded="true" signature="348:810" ph="{...}" />
-                <marker date="1507834948000" expanded="true" signature="462:493" ph="{...}" />
-                <marker date="1507834948000" expanded="true" signature="535:804" ph="{...}" />
-                <marker date="1507834948000" expanded="true" signature="668:773" ph="{...}" />
-              </folding>
+            <state relative-caret-position="342">
+              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -205,6 +165,7 @@
       <find>RuproController|Welcome|string</find>
       <find>Title</find>
       <find>string</find>
+      <find>Home|Home</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,15 +173,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/LunchApp.Web/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LunchApp.Web/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LunchApp.Web/DbModels/User.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LunchApp.Web/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LunchApp.Web/DbModels/ModelContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LunchApp.Web/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LunchApp.Web/DbModels/Post.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LunchApp.Web/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/DataController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LunchApp.Web/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/RuproController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70A09A0E-DA0B-4447-BCEA-4C5C0AF9F144/11/d2dc29e3/RazorPage`1.cs" root0="SKIP_INSPECTION" />
@@ -241,17 +194,17 @@
         <option value="$PROJECT_DIR$/Lunch-app-demo/Lunch-app-demo.csproj" />
         <option value="$PROJECT_DIR$/LunchApp.Web.Test/Tests.cs" />
         <option value="$PROJECT_DIR$/UnitTestProject/UnitTest1.cs" />
-        <option value="$PROJECT_DIR$/LunchApp.Web.Test/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/LunchApp.Web/Program.cs" />
-        <option value="$PROJECT_DIR$/LunchApp.Web/Startup.cs" />
         <option value="$PROJECT_DIR$/LunchApp.Web/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/LunchApp.Web/Views/Home/Index2.cshtml" />
         <option value="$PROJECT_DIR$/LunchApp.Web/Views/Rupro/Index.cshtml" />
-        <option value="$PROJECT_DIR$/LunchApp.Web/Views/Shared/_Layout.cshtml" />
-        <option value="$PROJECT_DIR$/LunchApp.Web/Controllers/RuproController.cs" />
         <option value="$PROJECT_DIR$/LunchApp.Web/Controllers/DataController.cs" />
         <option value="$PROJECT_DIR$/LunchApp.Web/Models/Restaurant.cs" />
         <option value="$PROJECT_DIR$/LunchApp.Web/DbModels/ModelContext.cs" />
+        <option value="$PROJECT_DIR$/LunchApp.Web/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/LunchApp.Web.Test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/LunchApp.Web/Startup.cs" />
+        <option value="$PROJECT_DIR$/LunchApp.Web/Controllers/RuproController.cs" />
       </list>
     </option>
   </component>
@@ -306,6 +259,25 @@
               <item name="Lunch-app-demo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="LunchApp.Web" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Lunch-app-demo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LunchApp.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Rupro" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Lunch-app-demo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LunchApp.Web" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Lunch-app-demo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LunchApp.Web.Test" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -424,12 +396,12 @@
       <workItem from="1507229216201" duration="467000" />
       <workItem from="1507230135956" duration="59000" />
       <workItem from="1507230212983" duration="1857000" />
-      <workItem from="1507832956522" duration="2424000" />
+      <workItem from="1507832956522" duration="2930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9249000" />
+    <option name="totallyTimeSpent" value="9755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,6 +414,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1004" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -452,7 +425,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27103302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27103302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -480,7 +453,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lunch-app-demo/Views/Home/About.cshtml" />
     <entry file="file://$USER_HOME$/.local/share/JetBrains/Shared/v08/DecompilerCache/decompiler/28769FF5-DC6A-41A2-95DA-B5C2535E83F8/16/978097b7/Controller.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -542,20 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LunchApp.Web.Test/UnitTest1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <marker date="1507832965000" expanded="false" signature="6:88" ph="..." />
-            <marker date="1507832965000" expanded="true" signature="117:562" ph="{...}" />
-            <marker date="1507832965000" expanded="true" signature="164:560" ph="{...}" />
-            <marker date="1507832965000" expanded="true" signature="267:334" ph="{...}" />
-            <marker date="1507832965000" expanded="true" signature="386:554" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LunchApp.Web/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -565,27 +523,6 @@
             <marker date="1507833147000" expanded="true" signature="78:452" ph="{...}" />
             <marker date="1507833147000" expanded="true" signature="105:450" ph="{...}" />
             <marker date="1507833147000" expanded="true" signature="158:444" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="62" column="39" lean-forward="false" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="39" />
-          <folding>
-            <marker date="1507833158000" expanded="true" signature="6:265" ph="..." />
-            <marker date="1507833158000" expanded="true" signature="291:2563" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="318:2561" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="372:760" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="987:1170" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="1388:2121" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="1653:1768" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="1785:1869" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="1938:2109" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="2184:2555" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="2235:2311" ph="{...}" />
-            <marker date="1507833158000" expanded="true" signature="2388:2483" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -632,57 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Rupro/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding>
-            <marker date="1507834447000" expanded="true" signature="0:37" ph="@..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="82" lean-forward="false" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
-          <folding>
-            <marker date="1507834670000" expanded="true" signature="16:3406" ph="&lt;html.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="23:847" ph="&lt;head.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="192:380" ph="&lt;environment.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="385:839" ph="&lt;environment.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="848:3398" ph="&lt;body.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="859:2003" ph="&lt;nav.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="920:1992" ph="&lt;div.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="956:1475" ph="&lt;div.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="1000:1344" ph="&lt;button.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="1488:1977" ph="&lt;div.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="1543:1958" ph="&lt;ul.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="2008:2170" ph="&lt;div.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="2090:2159" ph="&lt;footer.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="2176:2428" ph="&lt;environment.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="2433:3342" ph="&lt;environment.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="2482:2830" ph="&lt;script.../&gt;" />
-            <marker date="1507834670000" expanded="true" signature="2839:3248" ph="&lt;script.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/RuproController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <marker date="1507834844000" expanded="true" signature="6:64" ph="..." />
-            <marker date="1507834844000" expanded="true" signature="102:638" ph="{...}" />
-            <marker date="1507834844000" expanded="true" signature="150:636" ph="{...}" />
-            <marker date="1507834844000" expanded="true" signature="227:274" ph="{...}" />
-            <marker date="1507834844000" expanded="true" signature="339:418" ph="{...}" />
-            <marker date="1507834844000" expanded="true" signature="521:630" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Shared/Error.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -699,11 +585,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:39" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="100:232" ph="&lt;address.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="234:448" ph="&lt;address.../&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -711,39 +593,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1496773925000" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3050:5571" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5138:5564" ph="&lt;div.../&gt;" />
-            <marker date="1496773925000" expanded="true" signature="5199:5553" ph="&lt;ul.../&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -751,25 +601,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <marker date="1496773925000" expanded="true" signature="0:37" ph="@..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <marker date="1507833573000" expanded="true" signature="69:703" ph="{...}" />
-            <marker date="1507833573000" expanded="true" signature="116:701" ph="{...}" />
-            <marker date="1507833573000" expanded="true" signature="159:206" ph="{...}" />
-            <marker date="1507833573000" expanded="true" signature="244:364" ph="{...}" />
-            <marker date="1507833573000" expanded="true" signature="404:508" ph="{...}" />
-            <marker date="1507833573000" expanded="true" signature="539:610" ph="{...}" />
-            <marker date="1507833573000" expanded="true" signature="648:695" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -788,11 +620,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496779341000" expanded="true" signature="6:47" ph="..." />
-            <marker date="1496779341000" expanded="true" signature="83:279" ph="{...}" />
-            <marker date="1496779341000" expanded="true" signature="104:277" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -800,10 +628,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496779302000" expanded="true" signature="47:229" ph="{...}" />
-            <marker date="1496779302000" expanded="true" signature="68:227" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -811,12 +636,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <marker date="1507835617000" expanded="true" signature="6:50" ph="..." />
-            <marker date="1507835617000" expanded="true" signature="85:342" ph="{...}" />
-            <marker date="1507835617000" expanded="true" signature="129:340" ph="{...}" />
-            <marker date="1507835617000" expanded="true" signature="219:239" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -824,13 +644,107 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LunchApp.Web/LunchApp.Web.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LunchApp.Web.Test/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding>
-            <marker date="1507834948000" expanded="true" signature="6:117" ph="..." />
-            <marker date="1507834948000" expanded="true" signature="269:812" ph="{...}" />
-            <marker date="1507834948000" expanded="true" signature="348:810" ph="{...}" />
-            <marker date="1507834948000" expanded="true" signature="462:493" ph="{...}" />
-            <marker date="1507834948000" expanded="true" signature="535:804" ph="{...}" />
-            <marker date="1507834948000" expanded="true" signature="668:773" ph="{...}" />
+            <marker date="1507836653000" expanded="true" signature="6:88" ph="..." />
+            <marker date="1507836653000" expanded="true" signature="117:564" ph="{...}" />
+            <marker date="1507836653000" expanded="true" signature="164:562" ph="{...}" />
+            <marker date="1507836653000" expanded="true" signature="268:336" ph="{...}" />
+            <marker date="1507836653000" expanded="true" signature="388:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1507836665000" expanded="true" signature="6:197" ph="..." />
+            <marker date="1507836665000" expanded="true" signature="223:2068" ph="{...}" />
+            <marker date="1507836665000" expanded="true" signature="250:2066" ph="{...}" />
+            <marker date="1507836665000" expanded="true" signature="304:692" ph="{...}" />
+            <marker date="1507836665000" expanded="true" signature="919:1104" ph="{...}" />
+            <marker date="1507836665000" expanded="true" signature="942:1063" ph="/* services.AddDbContext&lt;DbModels.ModelContext&gt;(opt =&gt; opt.UseInMemoryDatabase()); ... */" />
+            <marker date="1507836665000" expanded="true" signature="1322:2059" ph="{...}" />
+            <marker date="1507836665000" expanded="true" signature="1450:1553" ph="/* var context = app.ApplicationServices.GetService&lt;DbModels.ModelContext&gt;(); ... */" />
+            <marker date="1507836665000" expanded="true" signature="1591:1706" ph="{...}" />
+            <marker date="1507836665000" expanded="true" signature="1723:1807" ph="{...}" />
+            <marker date="1507836665000" expanded="true" signature="1876:2047" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="68" lean-forward="true" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+          <folding>
+            <marker date="1507836498000" expanded="true" signature="16:3131" ph="&lt;html.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="23:847" ph="&lt;head.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="192:380" ph="&lt;environment.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="385:839" ph="&lt;environment.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="848:3123" ph="&lt;body.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="859:1728" ph="&lt;nav.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="920:1717" ph="&lt;div.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="956:1471" ph="&lt;div.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="1000:1344" ph="&lt;button.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="1484:1702" ph="&lt;div.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="1539:1683" ph="&lt;ul.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="1733:1895" ph="&lt;div.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="1815:1884" ph="&lt;footer.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="1901:2153" ph="&lt;environment.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="2158:3067" ph="&lt;environment.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="2207:2555" ph="&lt;script.../&gt;" />
+            <marker date="1507836498000" expanded="true" signature="2564:2973" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Views/Rupro/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <marker date="1507834447000" expanded="true" signature="0:37" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LunchApp.Web/Controllers/RuproController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <marker date="1507836787000" expanded="true" signature="6:64" ph="..." />
+            <marker date="1507836787000" expanded="true" signature="102:632" ph="{...}" />
+            <marker date="1507836787000" expanded="true" signature="150:630" ph="{...}" />
+            <marker date="1507836787000" expanded="true" signature="219:266" ph="{...}" />
+            <marker date="1507836787000" expanded="true" signature="334:413" ph="{...}" />
+            <marker date="1507836787000" expanded="true" signature="515:624" ph="{...}" />
           </folding>
         </state>
       </provider>

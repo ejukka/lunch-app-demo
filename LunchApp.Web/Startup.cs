@@ -3,8 +3,6 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using Microsoft.EntityFrameworkCore;
-using Lunch_app_demo.DbModels;
 
 namespace Lunch_app_demo
 {
@@ -25,7 +23,7 @@ namespace Lunch_app_demo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<DbModels.ModelContext>(opt => opt.UseInMemoryDatabase());
+            //services.AddDbContext<DbModels.ModelContext>(opt => opt.UseInMemoryDatabase());
 
             // Add framework services.
             services.AddMvc();
@@ -37,8 +35,8 @@ namespace Lunch_app_demo
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
 
-			var context = app.ApplicationServices.GetService<DbModels.ModelContext>();
-			AddTestData(context);
+			//var context = app.ApplicationServices.GetService<DbModels.ModelContext>();
+			//AddTestData(context);
 
             if (env.IsDevelopment())
             {
@@ -60,27 +58,5 @@ namespace Lunch_app_demo
             });
         }
 
-        private static void AddTestData(ModelContext context)
-        {
-			var testUser1 = new DbModels.User
-			{
-				Id = "abc123",
-				FirstName = "Luke",
-				LastName = "Skywalker"
-			};
-
-			context.Users.Add(testUser1);
-
-			var testPost1 = new DbModels.Post
-			{
-				Id = "def234",
-				UserId = testUser1.Id,
-				Content = "May the force be with you!"
-			};
-
-			context.Posts.Add(testPost1);
-
-			context.SaveChanges();
-        }
     }
 }
