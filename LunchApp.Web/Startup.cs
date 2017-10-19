@@ -1,6 +1,8 @@
-﻿using Lunch_app_demo.Models;
+﻿using System;
+using Lunch_app_demo.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -24,10 +26,17 @@ namespace Lunch_app_demo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            
+            //How to use im-memory db?
+            //services.AddDbContext<RestaurantContext>(options => options.UseSqlite("Data Source=Restaurants.db"));
+            
+            var connectionString = Configuration.GetConnectionString("DefaultConnection");
+            
+            services.AddDbContext<RestaurantContext>(options =>
+                options.UseSqlServer(connectionString));
+            
             // Add framework services.
             services.AddMvc();
-            
-            //services.AddDbContext<RestaurantContext>(options => options.UseSqlite("Data Source=Restaurants.db"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

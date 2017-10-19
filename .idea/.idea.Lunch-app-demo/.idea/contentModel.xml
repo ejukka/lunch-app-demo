@@ -17,6 +17,9 @@
         <e p="Controllers" t="Include">
           <e p="RuproController.cs" t="Include" />
         </e>
+        <e p="Data" t="Include">
+          <e p="DbInitializer.cs" t="Include" />
+        </e>
         <e p="LunchApp.Web.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">
           <e p="Restaurant.cs" t="Include" />
