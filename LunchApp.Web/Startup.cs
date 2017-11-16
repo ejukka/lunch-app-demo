@@ -1,5 +1,4 @@
-﻿using System;
-using Lunch_app_demo.Models;
+﻿using Lunch_app_demo.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -27,13 +26,11 @@ namespace Lunch_app_demo
         public void ConfigureServices(IServiceCollection services)
         {
             
-            //How to use im-memory db?
+            //How to use inmemory db?
             //services.AddDbContext<RestaurantContext>(options => options.UseSqlite("Data Source=Restaurants.db"));
             
-            var connectionString = Configuration.GetConnectionString("DefaultConnection");
-            
             services.AddDbContext<RestaurantContext>(options =>
-                options.UseSqlServer(connectionString));
+                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
             
             // Add framework services.
             services.AddMvc();

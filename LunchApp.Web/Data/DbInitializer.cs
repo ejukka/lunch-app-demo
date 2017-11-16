@@ -23,6 +23,7 @@ namespace Lunch_app_demo.Data
                 ReleaseDate = DateTime.Today,
                 points = Restaurant.RuproPoits.Superb
             };
+            context.Restaurants.Add(restaurant);
 
             context.SaveChanges();
         }

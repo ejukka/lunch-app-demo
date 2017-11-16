@@ -12,6 +12,12 @@ namespace Lunch_app_demo
     {
         public static void Main(string[] args)
         {
+            BuildWebHost(args)
+                .Run();
+        }
+
+        public static IWebHost BuildWebHost(string[] args)
+        {
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
@@ -19,7 +25,6 @@ namespace Lunch_app_demo
                 .UseStartup<Startup>()
                 .Build();
 
-            
             using (var scope = host.Services.CreateScope())
             {
                 var services = scope.ServiceProvider;
@@ -34,9 +39,11 @@ namespace Lunch_app_demo
                     logger.LogError(ex, "An error occurred while seeding the database.");
                 }
             }
-            
-            
+
+
             host.Run();
+
+            return host;
         }
     }
 }
