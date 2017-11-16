@@ -5,21 +5,21 @@ using NUnit.Framework;
 namespace LunchApp.Web.Test
 {
     [TestFixture]
-    public class UnitTest1
+    public class RuproControllerTest
     {
         
         private readonly RuproController controller;
         
-        public UnitTest1()
+        public RuproControllerTest()
         {
             controller = new RuproController();
         }
         
         [Test]
-        public void Test1()
+        public void ShouldReturnIndexPageTypeViewResult()
         {
-            IActionResult about = controller.Index();
-            Assert.AreEqual(about.GetType().FullName, "Microsoft.AspNetCore.Mvc.ViewResult");
+            IActionResult indexPage = controller.Index();
+            Assert.AreEqual(indexPage.GetType().FullName, "Microsoft.AspNetCore.Mvc.ViewResult");
         }
     }
 }
