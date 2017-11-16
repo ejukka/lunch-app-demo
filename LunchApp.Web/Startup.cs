@@ -22,21 +22,17 @@ namespace Lunch_app_demo
 
         public IConfigurationRoot Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            
             //How to use inmemory db?
             //services.AddDbContext<RestaurantContext>(options => options.UseSqlite("Data Source=Restaurants.db"));
             
             services.AddDbContext<RestaurantContext>(options =>
                 options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
             
-            // Add framework services.
             services.AddMvc();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
