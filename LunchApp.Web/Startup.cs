@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Http;
+using React;
 using React.AspNet;
 
 namespace Lunch_app_demo
@@ -28,13 +29,12 @@ namespace Lunch_app_demo
         {
             //How to use inmemory db?
             //services.AddDbContext<RestaurantContext>(options => options.UseSqlite("Data Source=Restaurants.db"));
-            
             services.AddDbContext<RestaurantContext>(options =>
                 options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
             
-            services.AddMvc();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddReact();
+            services.AddMvc();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
@@ -55,7 +55,6 @@ namespace Lunch_app_demo
                 app.UseExceptionHandler("/Home/Error");
             }
 
-            app.UseStaticFiles();
             // Initialise ReactJS.NET. Must be before static files.
             app.UseReact(config =>
             {
@@ -75,6 +74,7 @@ namespace Lunch_app_demo
                 //    .SetLoadBabel(false)
                 //    .AddScriptWithoutTransform("~/Scripts/bundle.server.js");
             });
+            app.UseStaticFiles();
 
             app.UseMvc(routes =>
             {
@@ -85,4 +85,13 @@ namespace Lunch_app_demo
         }
 
     }
+    
+//    public static class ReactConfig
+//    {
+//        public static void Configure()
+//        {
+//            ReactSiteConfiguration.Configuration = new ReactSiteConfiguration()
+//                .AddScript("~/Scripts/HelloWorld.jsx");
+//        }
+//    }
 }

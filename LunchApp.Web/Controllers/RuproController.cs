@@ -11,6 +11,12 @@ namespace Lunch_app_demo.Controllers
         {
             return View();
         }
+        
+        [HttpGet("/test")]
+        public ViewResult test()
+        {
+            return View();
+        }
 
         [HttpGet("rupro/welcome")]
         public string Welcome()
