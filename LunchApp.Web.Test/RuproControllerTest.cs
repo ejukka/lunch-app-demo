@@ -1,4 +1,5 @@
 using Lunch_app_demo.Controllers;
+using Lunch_app_demo.Models;
 using Microsoft.AspNetCore.Mvc;
 using NUnit.Framework;
 
@@ -9,10 +10,12 @@ namespace LunchApp.Web.Test
     {
         
         private readonly RuproController controller;
+        private readonly RestaurantContext context;
         
-        public RuproControllerTest()
+        public RuproControllerTest(RestaurantContext context)
         {
-            controller = new RuproController();
+            this.context = context;
+            controller = new RuproController(context);
         }
         
         [Test]

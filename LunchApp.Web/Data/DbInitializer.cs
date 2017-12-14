@@ -48,20 +48,20 @@ namespace Lunch_app_demo.Data
             CommentModel firstComment = new CommentModel
             {
                 Id = 1,
-                Author = "Daniel Lo Nigro",
-                Text = "Hello ReactJS.NET World!"
+                Author = "The Last Jedi",
+                Text = "aika diippii"
             };
             CommentModel secondComment = new CommentModel
             {
                 Id = 2,
-                Author = "Pete Hunt",
-                Text = "This is one comment"
+                Author = "Pete Sappinen",
+                Text = "sappii ei tarvii buuttaa"
             };
             CommentModel thirdComment = new CommentModel
             {
                 Id = 3,
-                Author = "Jordan Walke",
-                Text = "This is *another* comment"
+                Author = "Jorma kantel",
+                Text = "tiukkaa settii"
             };
             
             context.Comments.Add(firstComment);
