@@ -45,6 +45,29 @@ namespace Lunch_app_demo.Data
             context.Restaurants.Add(rax);
             context.Restaurants.Add(naughty);
 
+            CommentModel firstComment = new CommentModel
+            {
+                Id = 1,
+                Author = "Daniel Lo Nigro",
+                Text = "Hello ReactJS.NET World!"
+            };
+            CommentModel secondComment = new CommentModel
+            {
+                Id = 2,
+                Author = "Pete Hunt",
+                Text = "This is one comment"
+            };
+            CommentModel thirdComment = new CommentModel
+            {
+                Id = 3,
+                Author = "Jordan Walke",
+                Text = "This is *another* comment"
+            };
+            
+            context.Comments.Add(firstComment);
+            context.Comments.Add(secondComment);
+            context.Comments.Add(thirdComment);
+
             context.SaveChanges();
         }
     }

@@ -9,5 +9,6 @@ namespace Lunch_app_demo.Models
         }
 
         public DbSet<Restaurant> Restaurants { get; set; }
+        public DbSet<CommentModel>Comments { get; set; }
     }
 }

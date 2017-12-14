@@ -1,8 +1,3 @@
-var data = [
-    { id: 1, author: "Jedi", text: "The Force is strong with this one" },
-    { id: 2, author: "Darth Vader", text: "Impressive. Most impressive. Obi-Wan has taught you well." },
-    { id: 3, author: "Luke", text: "I hope so for your sake, the Emperor is not as forgiving as I am" }
-];
 
 var CommentList = React.createClass({
     render: function() {
@@ -32,11 +27,27 @@ var CommentForm = React.createClass({
 });
 
 var CommentBox = React.createClass({
+    loadCommentsFromServer: function () {
+        var xhr = new XMLHttpRequest();
+        xhr.open('get', this.props.url, true);
+        xhr.onload = function () {
+            var data = JSON.parse(xhr.responseText);
+            this.setState({data: data})
+        }.bind(this);
+        xhr.send();
+    },
+    getInitialState: function () {
+        return {data: []};
+    },
+    componentDidMount: function () {
+       this.loadCommentsFromServer();
+       window.setInterval(this.loadCommentsFromServer(), this.props.pollInterval);
+    },
     render: function() {
         return (
             <div className="commentBox">
                 <h1>Comments</h1>
-                <CommentList data={this.props.data} />
+                <CommentList data={this.state.data} />
                 <CommentForm />
             </div>
         );
@@ -62,6 +73,6 @@ var Comment = React.createClass({
 });
 
 ReactDOM.render(
-    <CommentBox data={data} />,
+    <CommentBox url="/comments" pollInterval={2000} />,
     document.getElementById('content')
 );

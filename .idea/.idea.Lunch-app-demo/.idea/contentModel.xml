@@ -23,6 +23,7 @@
         </e>
         <e p="LunchApp.Web.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">
+          <e p="CommentModel.cs" t="Include" />
           <e p="Restaurant.cs" t="Include" />
           <e p="RestaurantContext.cs" t="Include" />
         </e>

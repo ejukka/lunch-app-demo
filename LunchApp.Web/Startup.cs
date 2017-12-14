@@ -42,9 +42,6 @@ namespace Lunch_app_demo
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
 
-			//var context = app.ApplicationServices.GetService<DbModels.ModelContext>();
-			//AddTestData(context);
-
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -80,18 +77,9 @@ namespace Lunch_app_demo
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Restaurant}/{action=Index}/{id?}");
             });
         }
 
     }
-    
-//    public static class ReactConfig
-//    {
-//        public static void Configure()
-//        {
-//            ReactSiteConfiguration.Configuration = new ReactSiteConfiguration()
-//                .AddScript("~/Scripts/HelloWorld.jsx");
-//        }
-//    }
 }
